@@ -1,0 +1,6 @@
+{
+  "name": "fit_ia",
+  "version": "1.0.0",
+  "main": "api/chat.js",
+  "type": "module"
+}
